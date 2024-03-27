@@ -33,8 +33,7 @@ Va quyidagi rasmdagi kutubxonalarni birma bir yuklab olamiz.Kerakli versiyalari 
  **4- bosqich**. [Kodda](https://github.com/Mukhriddin19980901/Human-Face-Attendance/blob/main/Attendanceproject.py) har bir bosqichi alohida tushuntirilgan.Loyiha 
 ma'lumotlar bazasiga kiritilgan insonlarning yuzini tanib oladi va kamera orqali ayni vaqtda ko'rinayotgan 
 insonning yuzi bilan solishtirish orqali uning yuz piksellariga eng mosini tanlab oladi va  ismi va qayd etilgan vaqtini yozib oladi.Ta'kidlash kerakki
-bir marta yozilgan ma'lumotni qayta yozmaydi.Va o'xshash bo'lgan chehralarni ham ajrata oladi.
-
+bir marta yozilgan ma'lumotni qayta yozmaydi.Va o'xshash bo'lgan yuzlarni ham ajrata oladi.Yangi yuzlarni tanimaydi
 
 
 
