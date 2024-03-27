@@ -9,7 +9,7 @@ Ushbu loyiha ko'plab oliygoh yoki o'quv joylari talabalari yoki kompaniya , ofis
 qatnashuvini (keldi-ketdisini) aniqlash uchun ishlatiladi. Bunda ishxona yoki ofis hodimlarining yuzlari orqali aniqlab
 uning ismi va ko'ringan vaqtini bazaga yozib qo'yadi.
 
-<img src="https://github.com/Mukhriddin19980901/Human-Face-Attendance/blob/main/images/Scarlet.png" height="300" width="600"/>
+<img src="https://github.com/Mukhriddin19980901/Human-Face-Attendance/blob/main/images/Scarlet.png" height="700" width="800"/>
 
 Loyihani qilish uchun [PyCharm Community](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)  versiyasi va [Visual Studio 2019](https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads) ning community versiyasi kerak bo'ladi.
 Yuklab bo'lgandan keyin Visual Studioda rasmda ko'rsatilgan joyini yuklab olamiz.
